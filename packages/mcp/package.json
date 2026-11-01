@@ -38,6 +38,6 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.11.0",
     "eslint": "^9.26.0",
-    "zod": "^3.24.4"
+    "zod": "^4.6.7"
   }
 }
